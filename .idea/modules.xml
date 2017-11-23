@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/CSC375HW1.iml" filepath="$PROJECT_DIR$/.idea/modules/CSC375HW1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/CSC375HW1_main.iml" filepath="$PROJECT_DIR$/.idea/modules/CSC375HW1_main.iml" group="CSC375HW1" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/CSC375HW1_test.iml" filepath="$PROJECT_DIR$/.idea/modules/CSC375HW1_test.iml" group="CSC375HW1" />
+    </modules>
+  </component>
+</project>
